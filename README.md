@@ -1,1 +1,3 @@
-# NPM-cayulz
+# Installation
+
+npm install cayulz
